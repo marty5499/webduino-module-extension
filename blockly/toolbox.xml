@@ -1,0 +1,9 @@
+<category id="catExtension">
+  <block type="iframe_open">
+    <value name="url">
+      <block type="text">
+        <field name="TEXT">https://webduino.io</field>
+      </block>
+    </value>
+  </block>
+</category>
