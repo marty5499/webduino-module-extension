@@ -1,1 +1,1 @@
-MSG.catExtension = "擴充積木";
+MSG.catExtension = "進階擴充功能";
